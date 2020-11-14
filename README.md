@@ -25,7 +25,7 @@
 
 ## دروس ارشد
 
-[1115282_01 متدولوژي ايجاد نرم افزار 3](#)
+[1115282_01 متدولوژي ايجاد نرم افزار 3](https://github.com/mimzand/PNU_3991_AR/tree/main/SoftwareDevelopmentMethodologies)
 <br/>
 
 ---
