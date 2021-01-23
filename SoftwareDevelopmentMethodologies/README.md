@@ -11,11 +11,9 @@
 - [GitHub](https://github.com/mimzand)
 
 --------------------------
-## CHAPTER 24_People-oriented methodologies
-
 ### Presentation
 
-    - [chapter_24.mp4](https://github.com/mimzand/PNU_3991_AR/blob/main/SoftwareDevelopmentMethodologies/Chapter%2024.mp4)
+- [chapter_24.mp4](https://github.com/mimzand/PNU_3991_AR/blob/main/SoftwareDevelopmentMethodologies/Chapter%2024.mp4)
 
 --------------------------
 # گروه 
