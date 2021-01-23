@@ -16,6 +16,11 @@
 - [chapter_24.mp4](https://github.com/mimzand/PNU_3991_AR/blob/main/SoftwareDevelopmentMethodologies/Chapter%2024.mp4)
 
 --------------------------
+### Reading Book
+
+- [recording.mp3](https://github.com/mimzand/PNU_3991_AR/blob/main/SoftwareDevelopmentMethodologies/Recording.mp3)
+
+--------------------------
 ## گروه های درسی
 
 5. G-S05
