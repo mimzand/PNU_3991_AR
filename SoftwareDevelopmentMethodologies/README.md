@@ -1,8 +1,8 @@
 # PNU_3991_AR/SoftwareDevelopmentMethodologies
 
----
+<div dir="rtl">
 
-# مرتضی زند
+## مرتضی زند
 
 - [PNU_3991_AR](https://github.com/mimzand/PNU_3991_AR)
 - [Resume](https://mimzand.github.io/resume/)
@@ -10,7 +10,14 @@
 - [Certificates](https://mimzand.github.io/certificates/)
 - [GitHub](https://github.com/mimzand)
 
----
+--------------------------
+## CHAPTER 24_People-oriented methodologies
+
+### Presentation
+
+    - [chapter_24.mp4](https://github.com/mimzand/PNU_3991_AR/blob/main/SoftwareDevelopmentMethodologies/Chapter%2024.mp4)
+
+--------------------------
 # گروه 
 
 5. G-S05
@@ -18,3 +25,4 @@
     1. [_SDM-15_مرتضي زند](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/15_%D9%85%D8%B1%D8%AA%D8%B6%D9%8A%20%D8%B2%D9%86%D8%AF)    
     1. [_SDM-24_معصومه طاهري](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/24_%D9%85%D8%B9%D8%B5%D9%88%D9%85%D9%87%20%D8%B7%D8%A7%D9%87%D8%B1%D9%8A) 
  
+ </div>
